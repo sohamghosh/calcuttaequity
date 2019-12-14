@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+name: Calcutta Equity
+
+markdown: kramdown
+include: ["_pages"]
